@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

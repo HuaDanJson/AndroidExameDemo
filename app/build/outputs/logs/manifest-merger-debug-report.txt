@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:2:1-108:12
+	package
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:2:11-35
+		INJECTED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:5:11-41
+		INJECTED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:7:5-8:23
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:9:5-10:23
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:11:5-12:23
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:13:5-14:23
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:15:5-16:23
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:15:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:17:5-18:23
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:17:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:19:5-20:23
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:21:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:22:5-23:23
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:22:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:24:5-25:23
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:24:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:26:5-27:23
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:26:22-65
+application
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:29:5-106:19
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:31:9-35
+	android:icon
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:32:9-38
+	android:theme
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:34:9-40
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:30:9-43
+activity#com.ssyw.exam2.WelcomeActivity
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:36:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:41:27-74
+activity#com.ssyw.exam2.MainTabActivity
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:45:13-58
+activity#com.ssyw.exam2.ShareFriendActivity
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:49:13-62
+activity#com.ssyw.exam2.TopicActivity
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:53:13-56
+activity#com.ssyw.exam2.MoreDetailsActivity
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:57:13-62
+activity#com.ssyw.exam2.RecordActivity
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:61:13-57
+activity#com.ssyw.exam2.DetailsRecordActivity
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:64:9-67:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:66:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:65:13-64
+activity#com.ssyw.exam2.ClassicsActivity
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:68:9-71:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:70:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:69:13-59
+activity#com.ssyw.exam2.StatisticsActivity
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:72:9-75:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:74:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:73:13-61
+activity#com.ssyw.exam2.StatisticsTopicTab
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:76:9-79:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:78:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:77:13-61
+activity#com.ssyw.exam2.StatisticsTestTab
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:80:9-83:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:82:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:81:13-60
+activity#com.ssyw.exam2.ShareSettingActivity
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:85:9-88:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:87:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:86:13-63
+activity#com.ssyw.exam2.social.SinaWeiboOAuthV2
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:90:9-93:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:92:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:91:13-66
+activity#com.ssyw.exam2.social.TencentWeiboOAuthV2
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:95:9-98:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:97:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:96:13-69
+activity#com.tencent.weibo.webview.OAuthV2AuthorizeWebView
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:100:9-103:20
+	android:label
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:102:13-45
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:101:13-77
+activity#com.ssyw.exam2.login.LoginActivity
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:104:9-56
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:104:19-54
+activity#com.ssyw.exam2.login.RegisterActivity
+ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:105:9-59
+	android:name
+		ADDED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml:105:19-57
+uses-sdk
+INJECTED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jason/AnroidProject/Monkey/Exam2/app/src/main/AndroidManifest.xml

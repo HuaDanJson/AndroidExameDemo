@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmob_update_btn_check_on_holo_light.png",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable-hdpi-v4/bmob_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmob_update_close_bg_normal.png",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable-hdpi-v4/bmob_update_close_bg_normal.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmob_update_btn_check_off_holo_light.png",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable-hdpi-v4/bmob_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmob_update_close_bg_tap.png",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable-hdpi-v4/bmob_update_close_bg_tap.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmob_update_btn_check_on_pressed_holo_light.png",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable-hdpi-v4/bmob_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmob_update_btn_check_off_focused_holo_light.png",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable-hdpi-v4/bmob_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmob_update_btn_check_on_focused_holo_light.png",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable-hdpi-v4/bmob_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmob_update_btn_check_off_pressed_holo_light.png",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable-hdpi-v4/bmob_update_btn_check_off_pressed_holo_light.png"
+    }
+]

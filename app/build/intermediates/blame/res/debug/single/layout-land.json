@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/layout-land/activity_welcome.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/layout-land/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/layout-land/activity_main_tab.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/layout-land/activity_main_tab.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/layout-land/page_main_exam.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/layout-land/page_main_exam.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/layout-land/popup_window_seek.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/layout-land/popup_window_seek.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/layout-land/activity_topic.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/layout-land/activity_topic.xml"
+    }
+]

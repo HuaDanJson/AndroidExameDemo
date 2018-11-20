@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-mdpi/sina_weibo_close_normal.png",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable-mdpi/sina_weibo_close_normal.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-mdpi/sina_weibo_del_pic.png",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable-mdpi/sina_weibo_del_pic.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-mdpi/sina_weibo_image_background.9.png",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable-mdpi/sina_weibo_image_background.9.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-mdpi/sina_weibo_title_logo.png",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable-mdpi/sina_weibo_title_logo.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-mdpi/logo.png",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-mdpi/sina_weibo_close_press.png",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable-mdpi/sina_weibo_close_press.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

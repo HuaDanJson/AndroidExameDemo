@@ -1,0 +1,1058 @@
+[
+    {
+        "outputFile": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endLine": 33,
+                    "endColumn": 19,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endLine": 41,
+                    "endColumn": 19,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 4755,
+                        "endLine": 116,
+                        "endColumn": 19,
+                        "endOffset": 5082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endLine": 48,
+                    "endColumn": 19,
+                    "endOffset": 1853
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1858,
+                    "endLine": 56,
+                    "endColumn": 19,
+                    "endOffset": 2338
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2343,
+                    "endLine": 65,
+                    "endColumn": 19,
+                    "endOffset": 2725
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2859,
+                    "endColumn": 57,
+                    "endOffset": 2912
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2917,
+                    "endColumn": 55,
+                    "endOffset": 2968
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2973,
+                    "endColumn": 44,
+                    "endOffset": 3013
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3018,
+                    "endColumn": 44,
+                    "endOffset": 3058
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3063,
+                    "endColumn": 43,
+                    "endOffset": 3102
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3107,
+                    "endColumn": 62,
+                    "endOffset": 3165
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3170,
+                    "endColumn": 60,
+                    "endOffset": 3226
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3231,
+                    "endColumn": 61,
+                    "endOffset": 3288
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3293,
+                    "endColumn": 59,
+                    "endOffset": 3348
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3353,
+                    "endColumn": 52,
+                    "endOffset": 3401
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3406,
+                    "endColumn": 48,
+                    "endOffset": 3450
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3455,
+                    "endColumn": 49,
+                    "endOffset": 3500
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3505,
+                    "endColumn": 37,
+                    "endOffset": 3538
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3543,
+                    "endColumn": 57,
+                    "endOffset": 3596
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3601,
+                    "endColumn": 53,
+                    "endOffset": 3650
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3655,
+                    "endColumn": 47,
+                    "endOffset": 3698
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3703,
+                    "endColumn": 51,
+                    "endOffset": 3750
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3755,
+                    "endColumn": 45,
+                    "endOffset": 3796
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3801,
+                    "endColumn": 54,
+                    "endOffset": 3851
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3856,
+                    "endColumn": 47,
+                    "endOffset": 3899
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3904,
+                    "endColumn": 43,
+                    "endOffset": 3943
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3948,
+                    "endColumn": 47,
+                    "endOffset": 3991
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3996,
+                    "endColumn": 53,
+                    "endOffset": 4045
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4050,
+                    "endColumn": 42,
+                    "endOffset": 4088
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4093,
+                    "endColumn": 39,
+                    "endOffset": 4128
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4133,
+                    "endColumn": 44,
+                    "endOffset": 4173
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4178,
+                    "endColumn": 48,
+                    "endOffset": 4222
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4227,
+                    "endColumn": 49,
+                    "endOffset": 4272
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4277,
+                    "endColumn": 51,
+                    "endOffset": 4324
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4329,
+                    "endColumn": 49,
+                    "endOffset": 4374
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4379,
+                    "endColumn": 51,
+                    "endOffset": 4426
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4431,
+                    "endColumn": 42,
+                    "endOffset": 4469
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 4474,
+                    "endColumn": 44,
+                    "endOffset": 4514
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4519,
+                    "endColumn": 48,
+                    "endOffset": 4563
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4568,
+                    "endColumn": 53,
+                    "endOffset": 4617
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4622,
+                    "endColumn": 33,
+                    "endOffset": 4651
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4656,
+                    "endColumn": 58,
+                    "endOffset": 4710
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4715,
+                    "endColumn": 35,
+                    "endOffset": 4746
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4751,
+                    "endColumn": 43,
+                    "endOffset": 4790
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4795,
+                    "endColumn": 42,
+                    "endOffset": 4833
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4838,
+                    "endColumn": 42,
+                    "endOffset": 4876
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4881,
+                    "endColumn": 45,
+                    "endOffset": 4922
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4927,
+                    "endColumn": 48,
+                    "endOffset": 4971
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4976,
+                    "endColumn": 51,
+                    "endOffset": 5023
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 5028,
+                    "endColumn": 52,
+                    "endOffset": 5076
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 5081,
+                    "endColumn": 60,
+                    "endOffset": 5137
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 5142,
+                    "endColumn": 46,
+                    "endOffset": 5184
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5189,
+                    "endColumn": 43,
+                    "endOffset": 5228
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5233,
+                    "endColumn": 48,
+                    "endOffset": 5277
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 5282,
+                    "endColumn": 49,
+                    "endOffset": 5327
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5332,
+                    "endColumn": 57,
+                    "endOffset": 5385
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5390,
+                    "endColumn": 42,
+                    "endOffset": 5428
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5433,
+                    "endColumn": 46,
+                    "endOffset": 5475
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5480,
+                    "endColumn": 31,
+                    "endOffset": 5507
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5512,
+                    "endColumn": 51,
+                    "endOffset": 5559
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5564,
+                    "endColumn": 48,
+                    "endOffset": 5608
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5613,
+                    "endColumn": 55,
+                    "endOffset": 5664
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5669,
+                    "endColumn": 44,
+                    "endOffset": 5709
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5714,
+                    "endColumn": 48,
+                    "endOffset": 5758
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5763,
+                    "endColumn": 50,
+                    "endOffset": 5809
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5814,
+                    "endColumn": 50,
+                    "endOffset": 5860
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5865,
+                    "endColumn": 53,
+                    "endOffset": 5914
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5919,
+                    "endColumn": 48,
+                    "endOffset": 5963
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5968,
+                    "endColumn": 53,
+                    "endOffset": 6017
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 6022,
+                    "endColumn": 56,
+                    "endOffset": 6074
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6079,
+                    "endColumn": 56,
+                    "endOffset": 6131
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 6136,
+                    "endColumn": 47,
+                    "endOffset": 6179
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6184,
+                    "endColumn": 46,
+                    "endOffset": 6226
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 6231,
+                    "endColumn": 43,
+                    "endOffset": 6270
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6275,
+                    "endColumn": 50,
+                    "endOffset": 6321
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6326,
+                    "endColumn": 48,
+                    "endOffset": 6370
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6375,
+                    "endColumn": 48,
+                    "endOffset": 6419
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6424,
+                    "endColumn": 51,
+                    "endOffset": 6471
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6476,
+                    "endColumn": 68,
+                    "endOffset": 6540
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6545,
+                    "endColumn": 51,
+                    "endOffset": 6592
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6597,
+                    "endLine": 144,
+                    "endColumn": 12,
+                    "endOffset": 6675
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6680,
+                    "endLine": 147,
+                    "endColumn": 12,
+                    "endOffset": 6747
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6752,
+                    "endLine": 150,
+                    "endColumn": 12,
+                    "endOffset": 6916
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/page__styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6921,
+                    "endLine": 152,
+                    "endColumn": 12,
+                    "endOffset": 6955
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/page__styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 6960,
+                    "endLine": 156,
+                    "endColumn": 12,
+                    "endOffset": 7145
+                },
+                "from": {
+                    "file": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/values/page__styles.xml"
+                }
+            }
+        ]
+    }
+]

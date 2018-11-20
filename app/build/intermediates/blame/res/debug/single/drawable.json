@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/login_btn_register_false.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable/login_btn_register_false.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_normal.xml",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable/bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_selector.xml",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable/bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_tap.xml",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable/bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/bmob_update_dialog_bg.xml",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable/bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_check_selector.xml",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable/bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_tap.xml",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable/bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/et.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable/et.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/login_btn_submit.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable/login_btn_submit.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/login_btn_submit_false.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable/login_btn_submit_false.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_selector.xml",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable/bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/tab_group_more.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable/tab_group_more.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/login_btn_submit_true.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable/login_btn_submit_true.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/jason/.android/build-cache/c84c00ac850ba65540da9a6afd7407c4faf07d8f/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_close_bg_selector.xml",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable/bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/bmob_update_wifi_disable.png",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable/bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_focused.xml",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable/bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/record_style_red.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable/record_style_red.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_normal.xml",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable/bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/tab_group_classics.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable/tab_group_classics.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/tab_group_exam.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable/tab_group_exam.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_focused.xml",
+        "source": "/Users/jason/.android/build-cache/0c5c79ef1f5aa3b3cec8d41a303b40adfd67a677/output/res/drawable/bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/jason/AnroidProject/Monkey/Exam2/app/build/intermediates/res/merged/debug/drawable/login_btn_register.xml",
+        "source": "/Users/jason/AnroidProject/Monkey/Exam2/app/src/main/res/drawable/login_btn_register.xml"
+    }
+]
