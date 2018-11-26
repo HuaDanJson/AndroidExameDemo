@@ -234,6 +234,4 @@ public class MainTabActivity extends FragmentActivity implements
             }
         });
     }
-
-
 }
